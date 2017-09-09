@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMute", "AutoMute\AutoMute.csproj", "{B40A04A5-39F2-4DBC-B5E4-F489D8F5DB04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B40A04A5-39F2-4DBC-B5E4-F489D8F5DB04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B40A04A5-39F2-4DBC-B5E4-F489D8F5DB04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B40A04A5-39F2-4DBC-B5E4-F489D8F5DB04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B40A04A5-39F2-4DBC-B5E4-F489D8F5DB04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C219742F-8861-42A8-8FBE-46CADF4DE863}
+	EndGlobalSection
+EndGlobal
