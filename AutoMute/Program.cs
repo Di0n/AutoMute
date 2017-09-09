@@ -30,7 +30,7 @@ namespace AutoMute
                     Application.Run(new MainApplicationContext());
                 }
                 else
-                    MessageBox.Show("Er is al een instantie van AutoMute actief op deze computer.", "AutoMute", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    MessageBox.Show("AutoMute is already running.", "AutoMute", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 try
                 {
