@@ -47,6 +47,7 @@ namespace AutoMute
             {
                 Icon = Properties.Resources.Volume_Mute_256,
                 ContextMenu = notifyContextMenu,
+                Text = "AutoMute",
                 Visible = true
             };
 
